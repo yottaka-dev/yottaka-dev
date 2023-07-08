@@ -1,16 +1,16 @@
-### Hi there 👋
+## About Me
+Hi, I'm Yottaka2024.
 
-<!--
-**yottaka-dev/yottaka-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 my skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=&perline=8&i=html,css,python,cs,bootstrap,figma,github,vscode,visualstudio" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Status
+
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yottaka-dev&layout=compact&show_icons=true" />
+<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=yottaka-dev" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yottaka-dev&margin-w=5)](https://github.com/yottaka-dev/)
+
+## 📨 Contact me.
+https://twitter.com/Yottaka2024_dev
