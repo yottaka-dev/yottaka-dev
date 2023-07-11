@@ -2,7 +2,7 @@
 Hi, I'm Yottaka2024.
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=&perline=8&i=html,css,python,cs,bootstrap,figma,github,vscode,visualstudio" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=&perline=8&i=html,css,python,cs,bootstrap,figma,github,vscode,visualstudio,java" />
 
 
 ## 📈 Status
