@@ -1,6 +1,6 @@
 ## About Me
-Hi, I'm Yottaka1203.
-I'm making Plugin/Websites
+Hi, I'm Yottaka1203.<br>
+I'm making Plugin/Websites.
 
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=&perline=8&i=html,css,python,cs,bootstrap,figma,github,vscode,visualstudio,java" />
