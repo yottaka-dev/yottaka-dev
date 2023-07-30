@@ -15,3 +15,11 @@ I'm making Plugin/Websites.
 
 ## 📨 Contact me.
 https://twitter.com/Yottaka1203_dev
+## 💕 Special Thanks
+- ChatGPT
+  - https://chat.openai.com/
+- 純規の暇人趣味ブログ
+  - https://jyn.jp/bukkit-plugin-development-1/
+- bootstrap
+  - https://getbootstrap.jp/ (ja)
+  - https://getbootstrap.com/ (en)
