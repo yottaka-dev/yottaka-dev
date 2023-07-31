@@ -19,7 +19,7 @@ https://twitter.com/Yottaka1203_dev
 - ChatGPT
   - https://chat.openai.com/
 - 純規の暇人趣味ブログ
-  - https://jyn.jp/bukkit-plugin-development-1/
+  - https://jyn.jp/bukkit-plugin-development/
 - bootstrap
   - https://getbootstrap.jp/ (ja)
   - https://getbootstrap.com/ (en)
