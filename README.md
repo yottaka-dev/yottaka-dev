@@ -1,8 +1,8 @@
 ## About Me
 Hi, I'm Yottaka1203.<br>
 I'm making Plugin/Websites.
-### Version
-major.minor.patch
+My personal repository uses Japanese.
+YottakaStudio uses English.
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=&perline=8&i=html,css,python,cs,bootstrap,figma,github,vscode,visualstudio,java" />
 
