@@ -1,8 +1,8 @@
 ## About Me
-Hello!<br>
+こんにちは～<br>
 ### 📚 Languages used
-<img alt="my skills" src="https://skillicons.dev/icons?theme=&perline=8&i=html,css,cs,java,python" /> <br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=&perline=8&i=html,css,cs,js,java,python" /> <br>
 ### 📚 Libraries used
 <img alt="my skills" src="https://skillicons.dev/icons?theme=&perline=8&i=bootstrap" /> <br>
 ## 📨 Contact me
-https://x.com/Yottaka1203
+[Twitter(X)](https://twitter.com/yottaka1203)
