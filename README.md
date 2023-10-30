@@ -24,4 +24,4 @@
 - System(sym)
 - (Languages e.g.Python,HTML)
 ## Group ID
-- org.yottaka1203.[Project type].[Project name]
+- com.yottaka1203.[Project type].[Project name]
