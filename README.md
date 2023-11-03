@@ -12,6 +12,9 @@
 - Update [File name]:[Number of line]
 - Fix [File name] [Issue link]
 - Hoge - (Small changes that don't even require thinking about the commit message)
+## Rules of my name
+- Yottaka1203 - in ID
+- Yottaka - Nickname
 ## Types
 - Library(lib)
 - Framework(frm)
