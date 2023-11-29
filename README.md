@@ -1,7 +1,7 @@
 ## About Me
 こんにちは～<br>
 ### 📚 Languages
-<img alt="my skills" src="https://skillicons.dev/icons?theme=&perline=8&i=html,css,cs,js,java,python" /> <br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=&perline=8&i=html,css,js,cs,java,python" /> <br>
 ### 📚 Libraries
 <img alt="my skills" src="https://skillicons.dev/icons?theme=&perline=8&i=bootstrap" /> <br>
 ## 📨 Contact me
@@ -25,4 +25,4 @@
 - System(sym)
 - (Languages e.g.Python,HTML)
 ## Group ID
-- com.yottaka1203.[Project type].[Project name]
+- com.yottaka1203.[Project type]
