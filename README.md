@@ -11,7 +11,7 @@ Most Projects are CC BY-SA
 [Twitter(X)](https://twitter.com/yottaka1203)
 ## Rules
 - Yottaka1203 - on ID
-- Yottaka - Nickname
+- Yottaka - Normal
 - yottaka1203(.com) - on Domain
 ## Types
 - Library(lib)
