@@ -1,5 +1,6 @@
 ## Hello
 Hello, Everyone!<br>
+Most Projects are CC BY-SA
 ### 📚 Languages
 <img alt="my skills" src="https://skillicons.dev/icons?theme=&perline=8&i=html,css,js,cs,java,python" /> <br>
 ### 📚 Libraries
@@ -12,7 +13,7 @@ Hello, Everyone!<br>
 - Update [File name]:[Number of line]
 - Fix [File name] [Issue link]
 - Hoge - (Small changes that don't even require thinking about the commit message)
-## Rules of my name
+## Rules
 - Yottaka1203 - on ID
 - Yottaka - Nickname
 - yottaka1203 - on Domain
