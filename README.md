@@ -1,6 +1,6 @@
 ## Hello
+![icon-wide-bg](https://github.com/yottaka1203/yottaka1203/assets/138958366/86f9c051-20b2-4fc8-813c-07479ea525a2)
 
-![icon-wide](https://github.com/yottaka1203/yottaka1203/assets/138958366/4c23ad1b-128d-4591-98a1-098ddefd2e45)
 Hello, Everyone!<br>
 Most Projects are CC BY-SA
 ### 📚 Languages
