@@ -1,5 +1,5 @@
-## About Me
-こんにちは～<br>
+## Hello
+Hello, Everyone!<br>
 ### 📚 Languages
 <img alt="my skills" src="https://skillicons.dev/icons?theme=&perline=8&i=html,css,js,cs,java,python" /> <br>
 ### 📚 Libraries
@@ -13,8 +13,9 @@
 - Fix [File name] [Issue link]
 - Hoge - (Small changes that don't even require thinking about the commit message)
 ## Rules of my name
-- Yottaka1203 - in ID
+- Yottaka1203 - on ID
 - Yottaka - Nickname
+- yottaka1203 - on Domain
 ## Types
 - Library(lib)
 - Framework(frm)
@@ -22,7 +23,6 @@
 - Webapp(wep)
 - Software(sft)
 - Plugin(plg)
-- System(sym)
 - (Languages e.g.Python,HTML)
 ## Group ID
 - com.yottaka1203.[Project type]
