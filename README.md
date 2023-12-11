@@ -1,3 +1,5 @@
+
+![icon-wide](https://github.com/yottaka1203/yottaka1203/assets/138958366/4c23ad1b-128d-4591-98a1-098ddefd2e45)
 ## Hello
 Hello, Everyone!<br>
 Most Projects are CC BY-SA
@@ -7,16 +9,10 @@ Most Projects are CC BY-SA
 <img alt="my skills" src="https://skillicons.dev/icons?theme=&perline=8&i=bootstrap" /> <br>
 ## 📨 Contact me
 [Twitter(X)](https://twitter.com/yottaka1203)
-## Rules of Commit messages
-- Add [File name] [Path]
-- Delete [File name]
-- Update [File name]:[Number of line]
-- Fix [File name] [Issue link]
-- Hoge - (Small changes that don't even require thinking about the commit message)
 ## Rules
 - Yottaka1203 - on ID
 - Yottaka - Nickname
-- yottaka1203 - on Domain
+- yottaka1203(.com) - on Domain
 ## Types
 - Library(lib)
 - Framework(frm)
