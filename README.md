@@ -11,12 +11,12 @@
 - Yottaka - Normal
 - yottaka1203(.com) - on Domain
 ## Types
-- Library(lib)
-- Framework(frm)
-- Website(wes)
-- Webapp(wep)
-- Software(sft)
-- Plugin(plg)
+- Libraries(lib)
+- Frameworks(frm)
+- Websites(wes)
+- Webapps(wep)
+- Softwares(sft)
+- Plugins(plg)
 - (Languages e.g.Python,HTML)
 ## Group ID
 - com.yottaka1203.[Project type]
