@@ -9,14 +9,6 @@
 ## Rules
 - Yottaka1203 - on ID
 - Yottaka - Normal
-- yottaka1203(.com) - on Domain
-## Types
-- Libraries(lib)
-- Frameworks(frm)
-- Websites(wes)
-- Webapps(wep)
-- Softwares(sft)
-- Plugins(plg)
-- (Languages e.g.Python,HTML)
+- yottaka1203(.com) - on Domain)
 ## Group ID
 - com.yottaka1203.[Project type]
