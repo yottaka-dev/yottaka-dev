@@ -9,6 +9,6 @@
 ## Rules
 - Yottaka1203 - on ID
 - Yottaka - Normal
-- yottaka1203(.com) - on Domain)
+- yottaka1203(.com) - on Domain
 ## Group ID
 - com.yottaka1203.[Project type]
