@@ -8,7 +8,7 @@
 [Twitter(X)](https://twitter.com/yottaka1203)
 ## Rules
 - yottaka1203 - on ID
-- Yottaka - Normal
+- Yottaka - Nickname
 - yottaka1203(.com) - on Domain
 ## Group ID
 - com.yottaka1203.[Project type]
