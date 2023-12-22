@@ -7,7 +7,7 @@
 ## 📨 Contact me
 [Twitter(X)](https://twitter.com/yottaka1203)
 ## Rules
-- Yottaka1203 - on ID
+- yottaka1203 - on ID
 - Yottaka - Normal
 - yottaka1203(.com) - on Domain
 ## Group ID
